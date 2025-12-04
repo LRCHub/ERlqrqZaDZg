@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Drowning in you",
+  "base_artist": "999dobby",
+  "createdAt": "2025-12-04T09:53:08.837680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drowning in You (demo)",
+      "artist": "Roxette",
+      "has_synced": false,
+      "path": "select/01_Drowning_in_You_(demo)_Roxette.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drowning In You",
+      "artist": "Lucas Estrada",
+      "has_synced": true,
+      "path": "select/02_Drowning_In_You_Lucas_Estrada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drowning In You - T&A Demo Apr 17, 1988",
+      "artist": "Roxette feat. Per Gessle",
+      "has_synced": true,
+      "path": "select/03_Drowning_In_You_-_T&A_Demo_Apr_17,_1988_Roxette_feat._Per_Gessle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drowning In You - T&A Demo Apr 17, 1988",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/04_Drowning_In_You_-_T&A_Demo_Apr_17,_1988_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drowning in You (T&A demo - Apr 17, 1988)",
+      "artist": "Roxette & Per Gessle",
+      "has_synced": true,
+      "path": "select/05_Drowning_in_You_(T&A_demo_-_Apr_17,_1988)_Roxette_&_Per_Gessle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drowning In You - T&A Demo Apr 17, 1988 feat. Per Gessle",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/06_Drowning_In_You_-_T&A_Demo_Apr_17,_1988_feat._Per_Gessle_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drowning In You - T&A Demo Apr 17, 1988",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/07_Drowning_In_You_-_T&A_Demo_Apr_17,_1988_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drowning In You",
+      "artist": "Hybrid Minds & Fred V",
+      "has_synced": true,
+      "path": "select/08_Drowning_In_You_Hybrid_Minds_&_Fred_V.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drowning In You",
+      "artist": "Hybrid Minds",
+      "has_synced": true,
+      "path": "select/09_Drowning_In_You_Hybrid_Minds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drowning In You",
+      "artist": "Gretchen Peters",
+      "has_synced": true,
+      "path": "select/10_Drowning_In_You_Gretchen_Peters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drowning In You (Vion Konger Remix)",
+      "artist": "Lucas Estrada",
+      "has_synced": true,
+      "path": "select/11_Drowning_In_You_(Vion_Konger_Remix)_Lucas_Estrada.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drowning In You (T&A Demo Apr 17, 1988)",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/12_Drowning_In_You_(T&A_Demo_Apr_17,_1988)_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drowning In You",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/13_Drowning_In_You_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drowning in you",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/14_Drowning_in_you_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drowning In You - Chill Mix",
+      "artist": "Hybrid Minds",
+      "has_synced": true,
+      "path": "select/15_Drowning_In_You_-_Chill_Mix_Hybrid_Minds.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drowning in you (feat. Yvng Xan)",
+      "artist": "999dobby",
+      "has_synced": false,
+      "path": "select/pl_01_Drowning_in_you_(feat._Yvng_Xan)_999dobby.txt"
+    }
+  ]
+}
